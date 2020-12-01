@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"plans":[
+          {
+            "plan type": "Main Member and Child",
+            "spouse" : "1",
+            "children" : "2",                                 
+            "basic premium" : "R36.00",
+            "benefit amount" : "R10 000.00"
+          }
+        ]
 }
