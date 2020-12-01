@@ -1,11 +1,10 @@
 {
-"plans":[
-          {
+"plans":
+         {
             "plan type": "Main Member and Child",
             "spouse" : "1",
             "children" : "2",                                 
             "basic premium" : "R36.00",
             "benefit amount" : "R10 000.00"
           }
-        ]
 }
